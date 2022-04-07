@@ -5,4 +5,5 @@ It was developed as an example to learn node.js back-end functions and services.
 To run this application you´ll need to open your terminal and type:
 
 >npm install                // to install all the dependencies of the project
+
 >npm run-script dev        // to run the application
